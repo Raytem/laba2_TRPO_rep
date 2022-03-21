@@ -1,0 +1,5 @@
+//1
+[
+    { "key": "Cmd+shift+l",        "command": "actions.find" },
+    { "key": "alt+shift+l",        "command": "workbench.action.navigateBack" }
+]
